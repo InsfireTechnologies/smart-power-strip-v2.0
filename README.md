@@ -2,6 +2,7 @@
 Control board is equipped with most familiar ESP8266 based Wemos d1 microcontroller and 4 Relay to operate 4 Electrical devices. 
 
 ![image](res/IMG_20181030_120841.jpg)
+
 ## Features:
 - Arduino compatible
 - IoT ready, connect to any cloud
@@ -19,5 +20,7 @@ Let us check out the details of pin connection going from Wemos D1 to the variou
 ![image](res/breakout%20pins_update.png)
 
 ## Sample Projects :- 
-1. https://www.hackster.io/skyline/smart-power-strip-v2-0-616c3c
+https://www.hackster.io/skyline/smart-power-strip-v2-0-616c3c
+
+[Visit Store!](https://www.instamojo.com/insfiretechnologies/smart-power-strip-controller-board/) to Get one for you.
 
